@@ -1,8 +1,8 @@
 # Trailing Space Highlight
 
-[![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/seiya-koji.trailing-space-highlight)](https://marketplace.visualstudio.com/items?itemName=seiya-koji.trailing-space-highlight)
-[![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/seiya-koji.trailing-space-highlight)](https://marketplace.visualstudio.com/items?itemName=seiya-koji.trailing-space-highlight)
-[![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/seiya-koji.trailing-space-highlight)](https://marketplace.visualstudio.com/items?itemName=seiya-koji.trailing-space-highlight)
+[![VS Marketplace Version](https://badgen.net/vs-marketplace/v/seiya-koji.trailing-space-highlight?label=version)](https://marketplace.visualstudio.com/items?itemName=seiya-koji.trailing-space-highlight)
+[![VS Marketplace Installs](https://badgen.net/vs-marketplace/i/seiya-koji.trailing-space-highlight?label=installs)](https://marketplace.visualstudio.com/items?itemName=seiya-koji.trailing-space-highlight)
+[![VS Marketplace Rating](https://badgen.net/vs-marketplace/rating/seiya-koji.trailing-space-highlight?label=rating)](https://marketplace.visualstudio.com/items?itemName=seiya-koji.trailing-space-highlight)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 A VS Code extension that highlights trailing whitespace in red.
@@ -23,7 +23,7 @@ Install it from the Visual Studio Code Marketplace.
 
 ## Usage
 
-After installation, restart VS Code. The extension activates automatically.
+After installation, restart VS Code. The extension activates automatically.  
 No additional configuration required.
 
 ## Development
