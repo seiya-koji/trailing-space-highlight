@@ -1,6 +1,6 @@
 {
   "name": "Trailing Space Highlight",
-  "image": "mcr.microsoft.com/devcontainers/node:22",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:22",
   "postCreateCommand": "npm install",
   "customizations": {
     "vscode": {
