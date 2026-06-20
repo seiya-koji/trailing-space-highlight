@@ -2,7 +2,7 @@
   "name": "trailing-space-highlight",
   "displayName": "Trailing Space Highlight",
   "description": "Highlights trailing whitespace in red",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "seiya-koji",
   "engines": {
     "vscode": "^1.80.0"
