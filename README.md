@@ -7,6 +7,8 @@
 
 A VS Code extension that highlights trailing whitespace in red.
 
+![image](images/image.png)
+
 ## Features
 
 - Highlights trailing spaces and tabs with a red background
@@ -38,7 +40,3 @@ npm run compile
 # Create a VSIX package
 npm run package
 ```
-
-## License
-
-MIT
