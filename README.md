@@ -27,16 +27,3 @@ Install it from the Visual Studio Code Marketplace.
 
 After installation, restart VS Code. The extension activates automatically.  
 No additional configuration required.
-
-## Development
-
-```bash
-# Install dependencies
-npm install
-
-# Compile
-npm run compile
-
-# Create a VSIX package
-npm run package
-```
